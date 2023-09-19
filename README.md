@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Serjio
 - 👀 I’m interested in video games, music
-- 🌱 I’m currently learning C, Python
+- 🌱 I’m currently learning C++, Python
 - 📫 How to reach me: evanlagouche@gmail.com
+- ![]()
 
 <!---
 S3rjio/S3rjio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
