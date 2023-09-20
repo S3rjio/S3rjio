@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Serjio
+- 👋 Hi, I’m probably not named Serjio but that's how you're gotta call me
 - 👀 I’m interested in video games, music
 - 🌱 I’m currently learning C++, Python
 - 📫 How to reach me: evanlagouche@gmail.com
