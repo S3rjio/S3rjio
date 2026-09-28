@@ -1,5 +1,5 @@
 - 👋 Hi, I’m probably not named Serjio but that's how you gotta call me
-- 👀 I’m interested in video games, music
+- 👀 I’m interested in video games, music, movies
 - 🌱 I’m currently learning C++, Python
 - 📫 How to reach me: e.lagouche@proton.me || Discord : Serjiotv
   
